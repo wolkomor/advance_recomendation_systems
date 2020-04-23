@@ -1,4 +1,4 @@
-# advance_recomendation_systems
+# advance recomendation systems
 
 This project was caried out as part of Advance Recommender Systems course in Tel-Aviv University, we used Movies dataset.
 
